@@ -1,0 +1,35 @@
+.zagalovok{
+    font-family: 'Nanum Myeongjo', serif;
+    background-color: darkslateblue;
+    color: aliceblue;
+    border-radius: 24px;
+    text-align: center;
+}
+body{
+    background-color: lightslategrey;
+}
+img{
+    border-radius: 300px;
+}
+.iop{
+    text-align: center;
+}
+.opis{
+    text-align: center;
+    font-family: 'Nanum Myeongjo', serif;
+    color: aliceblue;
+}
+button{
+    background-color: rgb(219, 229, 255);
+    color: rgb(0, 0, 0);
+    border-radius: 24PX;
+    font-family: 'Nanum Myeongjo', serif;
+}
+
+button:hover {
+    color: rgb(255, 255, 255);
+    background-color: rgb(122, 122, 255);
+}
+.hf{
+    text-align: center;
+}
